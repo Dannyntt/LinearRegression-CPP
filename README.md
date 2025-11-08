@@ -165,11 +165,7 @@ clean:
 
 ## 📹 Video Presentation
 
-**YouTube Link:** [Insert video link here]  
-Both students appear in the video, showing:  
-- Class explanation  
-- Training demonstration  
-- Predictions and model performance  
+**YouTube Link:** ----
 
 ---
 
@@ -186,6 +182,7 @@ Both students appear in the video, showing:
 - EAFIT Interactiva – Datasets: `ice_cream_selling_data.csv`, `student_exam_scores.csv`  
 - GitHub Docs – [Basic Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 - Course Material: *Programming Languages and Paradigms*  
-- *Mathematics for Machine Learning*, Cambridge University Press, 2020  
+- *Mathematics for Machine Learning*, Cambridge University Press, 2020
+- some IA help for a better looking README :)  
 
 ---
