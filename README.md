@@ -62,20 +62,6 @@ W = (X^T X)^{-1} X^T y
 
 Implemented through manual matrix operations in C++ (`transpose`, `multiply`, `invert`).
 
-### 🔹 Regression Formula
-
-\[
-\hat{y} = w_1x_1 + w_2x_2 + ... + w_nx_n + b
-\]
-
-Cost function:
-
-\[
-J(W, b) = \frac{1}{2m} \sum_{i=1}^{m} (\hat{y_i} - y_i)^2
-\]
-
----
-
 ## 📂 Project Structure
 
 ```
