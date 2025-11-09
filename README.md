@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 Practice No. 3 – Object Oriented Programming  
 **Course:** Programming Languages and Paradigms  
 **Program:** Ingeniería de Sistemas – Universidad EAFIT  
@@ -309,3 +310,6 @@ std::cout << "Example prediction: " << preds[0]
 >>>>>>> edf8fa6da856cfadea7ade392ae1b7f8a79d4b8e
 
 ---
+=======
+
+>>>>>>> origin/main
