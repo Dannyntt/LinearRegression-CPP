@@ -52,34 +52,6 @@ All matrix operations (transpose, multiply, inverse) are implemented manually, *
 
 ---
 
-## ⚙️ Implementation Details
-
-### 🔹 Normal Equation
-
-The model parameters are computed using:
-
-\[
-W = (X^T X)^{-1} X^T y
-\]
-
-Implemented through manual matrix operations in C++ (`transpose`, `multiply`, `inverse`).
-
-### 🔹 Regression Formula
-
-\[
-\hat{y} = w_1x_1 + w_2x_2 + ... + w_nx_n + b
-\]
-
-### 🔹 R² Score
-
-The **R² (coefficient of determination)** measures model accuracy:
-
-\[
-R^2 = 1 - \frac{\sum{(y_i - \hat{y_i})^2}}{\sum{(y_i - \bar{y})^2}}
-\]
-
----
-
 ## 📂 Project Structure
 
 ```
